@@ -1,7 +1,7 @@
-Azure Network Terraform Module
+Azure Compute Terraform Module
 ===========
 
-A terraform module to provide a network in Microsoft Azure.
+A terraform module to provide a scale set in Microsoft Azure.
 
 
 Module Input Variables
